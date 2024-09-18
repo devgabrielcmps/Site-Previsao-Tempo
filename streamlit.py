@@ -18,7 +18,7 @@ def conversao(kelvin):
     return celsius
 
 # Faz a requisição da previsão de temperaturas para os próximos 5 dias
-def previsao_temperatura(city, key='c745ca79c56d31ec5a4cad3751fb3514'):
+def previsao_temperatura(city, key='sua chave'):
     # Pega a latitude e longitude da cidade digitada
     link = f'https://api.openweathermap.org/geo/1.0/direct?q={city}&appid={key}'
     requisicao2 = rq.get(link)
