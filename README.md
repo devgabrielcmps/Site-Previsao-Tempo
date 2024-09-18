@@ -32,6 +32,4 @@ Além disso, hospedei o site no GitHub para que ele fique acessível a todos que
 
 👉 O projeto é um exemplo de como APIs públicas e ferramentas como Streamlit podem ser usadas para criar aplicativos interativos e úteis com Python.
 
-Se quiser testar o app ou saber mais sobre o desenvolvimento, fique à vontade para comentar! 👇
-
 #Python #APIs #Streamlit #OpenWeatherAPI #Desenvolvimento
