@@ -5,15 +5,23 @@
 Nos últimos dias, desenvolvi uma aplicação de previsão do tempo utilizando o Streamlit e a API da OpenWeather. O app permite que os usuários insiram o nome de uma cidade e obtenham a previsão detalhada para os próximos cinco dias, incluindo temperaturas e ícones das condições climáticas.
 
 💡 Principais Funcionalidades:
+
 Previsão para 5 dias: O app utiliza geolocalização para obter a latitude e longitude da cidade e, com essas informações, acessar a previsão do tempo.
+
 Conversão de temperatura: A API retorna a temperatura em Kelvin, mas o app converte automaticamente para Celsius.
+
 Interface intuitiva com Streamlit: Usei CSS customizado para deixar a interface mais amigável e visualmente atraente.
+
 Atualização em tempo real: A data e hora da consulta são atualizadas automaticamente a cada nova busca.
 
 🛠️ Tecnologias Utilizadas:
+
 Streamlit: Para criar a interface interativa.
+
 Requests: Para fazer as chamadas à API do OpenWeather.
+
 OpenWeather API: Para obter os dados meteorológicos com base na cidade digitada.
+
 Python: Lógica principal do app, incluindo tratamento de erros e manipulação de dados.
 
 🔥 Desafios:
