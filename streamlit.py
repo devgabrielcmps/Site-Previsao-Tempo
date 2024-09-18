@@ -226,5 +226,4 @@ if city:
         st.text('Erro ao processar o nome da cidade. Verifique se a cidade foi digitada corretamente.')
 
 else:
-    # Remover o print vazio que não faz sentido aqui
     pass
