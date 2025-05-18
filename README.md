@@ -31,5 +31,3 @@ Manipular os dados da API para gerar previsões organizadas em intervalos de tem
 Além disso, hospedei o site no GitHub para que ele fique acessível a todos que queiram testar e explorar a aplicação. Para rodar o app localmente, basta substituir "sua chave" pela chave que você obtém ao se cadastrar no site da OpenWeather, para poder utilizá-lo adequadamente.
 
 👉 O projeto é um exemplo de como APIs públicas e ferramentas como Streamlit podem ser usadas para criar aplicativos interativos e úteis com Python.
-
-#Python #APIs #Streamlit #OpenWeatherAPI #Desenvolvimento
